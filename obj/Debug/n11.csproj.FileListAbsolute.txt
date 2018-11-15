@@ -1,0 +1,10 @@
+C:\Users\Duysun\source\repos\n11\n11\bin\Debug\n11.exe.config
+C:\Users\Duysun\source\repos\n11\n11\bin\Debug\n11.exe
+C:\Users\Duysun\source\repos\n11\n11\bin\Debug\n11.pdb
+C:\Users\Duysun\source\repos\n11\n11\bin\Debug\WebDriver.dll
+C:\Users\Duysun\source\repos\n11\n11\bin\Debug\WebDriver.xml
+C:\Users\Duysun\source\repos\n11\n11\obj\Debug\n11.csprojAssemblyReference.cache
+C:\Users\Duysun\source\repos\n11\n11\obj\Debug\n11.csproj.CoreCompileInputs.cache
+C:\Users\Duysun\source\repos\n11\n11\obj\Debug\n11.csproj.CopyComplete
+C:\Users\Duysun\source\repos\n11\n11\obj\Debug\n11.exe
+C:\Users\Duysun\source\repos\n11\n11\obj\Debug\n11.pdb
